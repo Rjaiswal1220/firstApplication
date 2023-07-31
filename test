@@ -17,7 +17,7 @@ public static void main(String[] args) {
 	System.out.println("HashSet"+nameSet);
 	nameLinkSet.add("ram");
 	nameLinkSet.add("vijay");
-	nameLinkSet.add("ajay");   //Linkedhashset must maintain insertion order
+	nameLinkSet.add("ajay");   //LINKHASHSET must maintain insertion order
 	nameLinkSet.add("pradeep");
 	nameLinkSet.add("ram");
 	System.out.println("LinkedHashSet"+nameLinkSet);
