@@ -11,7 +11,7 @@ public static void main(String[] args) {
 	LinkedHashSet<String>nameLinkSet=new LinkedHashSet<>();
 	nameSet.add("ram");
 	nameSet.add("vijay");
-	nameSet.add("ajay");    //Hashset does not maintain insertion order
+	nameSet.add("ajay");    //Hashset does not maintain insertion ORDER
 	nameSet.add("pradeep");
 	nameSet.add("ram");
 	System.out.println("HashSet"+nameSet);
